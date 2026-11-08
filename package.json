@@ -24,10 +24,10 @@
     "eject": "react-scripts eject"
   },
   "resolutions": {
-    "postcss": "7.0.36"
+    "postcss-safe-parser": "4.0.2"
   },
   "overrides": {
-    "postcss": "7.0.36"
+    "postcss-safe-parser": "4.0.2"
   },
   "eslintConfig": {
     "extends": [
